@@ -1,6 +1,6 @@
 # Kang_etal
 
-#Kang_etal #Project description 
+#Kang_etal #In this study, the in silico simulation tool iBridge was upgraded to systematically predict effective gene manipulation targets for enhancing metabolic flux toward two target molecules. This framework was employed to increase the production of novel aromatic PHA
 
 
 ##Example
