@@ -18,6 +18,6 @@
         conda env create -f environment.yml
         conda activate baebra
 
-4. Install the virtual environment kerenl into the jupyter
+4. Run iBrdige
 
-        python -m ipykernel install —user —name baebra —display-name "baebra"
+        python run_ibrdige.py -i {input GEM directory} -o {output directory} -t {target reaction ID}
